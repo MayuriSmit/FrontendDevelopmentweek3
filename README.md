@@ -1,9 +1,9 @@
 # FrontendDevelopmentweek3
 Bling bling & selectoren
-  In dee oefening ga je experimenteren met een aantal CSS3 mogelijkheden..
-  Gebruik de border-radius, box-shadow, text-shadow, transform en transistion om je overzichtspagina mee te stylen
+  In die oefening ga je experimenteren met een aantal CSS3 mogelijkheden..
+  Gebruik de border-radius, box-shadow, text-shadow, transform en transistion om je overzichtspagina mee te stylen.
   
-  3.1.1 boder radius 
+  3.1.1 Border radius 
     Vraag 1: border-radius:100% 0 0 100% / 50%;
     Vraag 2: border-radius: 50% / 60% 60% 40% 40%;
     Vraag 3: border-radius:960px 960px 0;
@@ -33,7 +33,7 @@ Bling bling & selectoren
     Vraag 1: transform: translate(0,10%) rotate(90deg) 
              scale(.5) skew(45deg);
  
-  3.1.5 CSS transistions
+  3.1.5 CSS Transitions
     Vraag 1: textarea {
              color: purple; 
              transition: 2s;
